@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, ritka-admin is here 👋
+
+- I'm currently studying at ITMO university, Software Engineering educational program
+- Particular interests? Doing many things at the same time, so ask me in a year
+- Do not be cought by a deceptive nature of an `admin` nickname 😈
+- Reach: tg, link in bio
 
 <!--
 **ritka-admin/ritka-admin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
